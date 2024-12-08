@@ -18,7 +18,7 @@ def interpret_bmi(bmi):
 
 # Streamlit app layout
 def main():
-    st.title("BMI Calculator")
+    st.title("BMI Calculator-by Zinnat")
     st.write("""
     This app calculates your **Body Mass Index (BMI)** based on your weight and height.
     """)
